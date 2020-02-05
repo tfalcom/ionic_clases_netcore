@@ -1,0 +1,7 @@
+{
+  "name": "ionic_clases_netcore",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
